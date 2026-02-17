@@ -16,7 +16,7 @@ export default function ThankYouPage() {
       </p>
 
       <a
-        href="https://drive.google.com/file/d/12Iy6EOHz-e0eUtNl1oEXXBoGRLrbPvn8/view?usp=sharing"
+        href="https://drive.google.com/file/d/1PdMW_Bosfd9ACV_4n3_dpCtgkDMp4Yy_/view?usp=sharing"
         className="inline-block bg-black text-white px-6 py-3 rounded mb-6"
       >
         Download Your PDF
